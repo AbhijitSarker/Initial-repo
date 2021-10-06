@@ -1,3 +1,6 @@
+body{
+    background-color: thistle;
+}
 p{
     color: rgb(0, 0, 0);
     background-color: rgba(87, 255, 249, 0.418);
