@@ -1,3 +1,26 @@
 p{
-    color: red;
+    color: rgb(0, 0, 0);
+    background-color: rgba(87, 255, 249, 0.418);
+    font-size: large;
+    margin: 25px;
+    padding: 20px;
+    border: 20px;
+}
+h1{
+    font-size: 2cm;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: orangered;
+
+}
+h2{
+    text-align: center;
+    font-size: 1cm;
+}
+h3{
+    text-align: left;
+    
+}
+h4{
+    text-align: center;
 }
